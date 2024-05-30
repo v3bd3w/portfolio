@@ -1,2 +1,1 @@
-# portfolio
-Portfolio with projects completed as a freelancer.
+Сделать вёрстку адаптивной. Make adaptive HTML layout.

@@ -1,2 +1,1 @@
-# portfolio
-Portfolio with projects completed as a freelancer.
+Создать шаблон расширения firefox. Make firefox extension template.

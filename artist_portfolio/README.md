@@ -1,2 +1,1 @@
-# portfolio
-Portfolio with projects completed as a freelancer.
+Сделать вёрстку динамической, написать движок. Make markup dynamicly, create backend.
